@@ -6,7 +6,7 @@ Lucidity is an innovative application, inspired by [perplexity.ai](https://www.p
 
 Should you have any queries or suggestions, feel free to reach out to me. [Email me here](mailto:ofunrein123@gmail.com)
 
-![Lucidity AI](./public/screenshot.png)([https://lucidity-ai.vercel.app/](url))
+[![Lucidity AI](./public/screenshot.png)](https://lucidity-ai.vercel.app/)
 
 ## Working Principle
 
